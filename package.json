@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/dbankston2409/brightpath-landing#readme",
   "dependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
     "autoprefixer": "^10.4.27",
     "next": "^16.1.6",
     "postcss": "^8.5.8",
